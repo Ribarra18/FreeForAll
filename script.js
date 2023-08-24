@@ -4,6 +4,6 @@ document.addEventListener("DOMContentLoaded", function () {
   myButton.addEventListener("click", showAlert);
   // adding this shit makes the alert appear when el button esta clicked
   function showAlert() {
-    alert("Hello Wor...Puto!");
+    alert("Hello Wor...DALE!");
   }
 });
